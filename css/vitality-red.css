@@ -82,6 +82,12 @@ h6 {
   h2 {
     font-size: 50px; } }
 
+    #gmail {
+      margin: auto;
+      padding-bottom: 30px;
+
+    }
+
 #mainNav {
   background-color: #222; }
   #mainNav .navbar-toggler {
