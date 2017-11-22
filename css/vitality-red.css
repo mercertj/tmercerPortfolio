@@ -223,6 +223,8 @@ header.masthead {
 header.masthead .masthead-img {
     max-width: 150px;
     max-height: 150px;
+    color: #3333ff;
+
 }
 
 header.masthead .masthead-title {
@@ -231,11 +233,13 @@ header.masthead .masthead-title {
     font-family: 'Raleway', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-weight: 900;
     text-transform: uppercase;
+    
 }
 
 header.masthead .masthead-subtitle {
     font-size: 1.5rem;
     line-height: 1.5rem;
+    
 }
 
 header.masthead .scroll-down {
